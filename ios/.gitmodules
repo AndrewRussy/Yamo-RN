@@ -1,0 +1,6 @@
+[submodule "cloudinary_ios"]
+	path = cloudinary_ios
+	url = https://github.com/cloudinary/cloudinary_ios.git
+[submodule "Alamofire"]
+	path = Alamofire
+	url = https://github.com/Alamofire/Alamofire.git
